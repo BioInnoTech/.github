@@ -23,7 +23,7 @@ We're passionate about innovation and collaboration. Whether you're looking for 
 - Website: comming soon
 - Email: bioinnotech@outlook.com
 - Phone: +92 312 095 4503; +88 018 8627 1828
-- LinkedIn: [BioInnoTech LinkedIn Page](https://www.linkedin.com/company/bioinnotek)
+- LinkedIn: [https://www.linkedin.com/company/bioinnotek](https://www.linkedin.com/company/bioinnotek)
 - GitHub: [https://github.com/BioInnoTech](https://github.com/BioInnoTech)
 
 Together, let’s shape the future of bioinformatics.
